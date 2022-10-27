@@ -2,7 +2,7 @@
   "name": "arquitectura-mvc-server-crud-users",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node ./src/server.js",
     "dev": "nodemon ./src/server.js",
